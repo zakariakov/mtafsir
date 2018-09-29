@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=X-Islamic-Software;GTK;Qt;Office;Viewer;
+Comment[ar]=تفسير القرءان الكريم
+Comment=تفسير القرءان الكريم
+Exec=mtafsir
+GenericName[ar]=تفسير القرءان الكريم
+GenericName=تفسير القرءان الكريم
+Icon=mtafsir
+MimeType=
+Name[ar]=القرءان المفسر
+Name=القرءان المفسر
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=0.1
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/go-first.png</file>
+        <file>images/go-last.png</file>
+        <file>images/zoom-in.png</file>
+        <file>images/zoom-out.png</file>
+        <file>images/go-next.png</file>
+        <file>images/go-previous.png</file>
+        <file>images/gtk-quit.png</file>
+        <file>images/find.png</file>
+        <file>images/document-properties.png</file>
+        <file>images/dialog-ok.png</file>
+        <file>images/stock_text_indent.png</file>
+        <file>images/mtafsir.png</file>
+        <file>images/help-about.png</file>
+        <file>images/empty.png</file>
+        <file>images/document-print.png</file>
+    </qresource>
+</RCC>
